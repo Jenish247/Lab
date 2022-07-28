@@ -1,3 +1,6 @@
+/*
+* program  to display the cube of the number upto given  integer. 
+*/
 import java.util.Scanner;
 public class Test2 {
 
